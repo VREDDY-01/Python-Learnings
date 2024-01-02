@@ -1,0 +1,7 @@
+print("what is your name?")
+myname = input()
+print(myname)
+print(len(myname))
+print(float(48))
+print(str(48))
+print(int("48"))
