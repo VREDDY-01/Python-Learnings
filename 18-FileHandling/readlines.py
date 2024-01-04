@@ -14,7 +14,7 @@ while True:
 
   print(line)
 
-f = open('2.txt', 'w')
-lines = ['line 1\n', 'line 2\n', 'line 3\n']
-f.writelines(lines)
-f.close()
+# f = open('2.txt', 'w')
+# lines = ['line 1\n', 'line 2\n', 'line 3\n']
+# f.writelines(lines)
+# f.close()
